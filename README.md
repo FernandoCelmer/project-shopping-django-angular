@@ -9,6 +9,10 @@
 - [Django](https://www.djangoproject.com/) 
 - [Angular](https://angular.io/)
 
+## 📑 Requirements
+
+-Python 3.7
+
 ## Demo
 Link - <br> 
 Link - <br>
