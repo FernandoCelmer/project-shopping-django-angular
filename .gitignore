@@ -12,6 +12,7 @@ Thumbs.db
 
 # VirtualEnv
 Code/venv
+Code/backend/venv
 
 # Back-end - Dependencies
 Code/backend/backend/__pycache__
