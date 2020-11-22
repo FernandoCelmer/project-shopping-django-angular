@@ -1,5 +1,22 @@
+# IDE - VSCode
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
 
+# System Files
+.DS_Store
+Thumbs.db
+
+# VirtualEnv
 Code/venv
+
+# Back-end - Dependencies
 Code/backend/backend/__pycache__
 Code/backend/shopping/__pycache__
 Code/backend/shopping/migrations/__pycache__
+
+# Front-end - Dependencies
+Code/frontend/node_modules
