@@ -11,11 +11,11 @@
 
 ## 📑 Requirements
 
--Python 3.7
+- Python 3.7
 
-## Demo
-Link - <br> 
-Link - <br>
+## 💻 Demo
+- <br> 
+- <br>
 
 ## Branchs
 - <br> 
