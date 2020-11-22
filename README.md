@@ -28,7 +28,7 @@
 
 ## SCREEN - ON 
 ________________________________
-<p>
+<img src="https://github.com/FernandoCelmer/indexoffy-shopping-django-angular/blob/main/Content/application.png?raw=true">
 
 ## Database - ON
 ________________________________
