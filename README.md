@@ -12,6 +12,11 @@
 ## 📑 Requirements
 
 - Python 3.7
+- asgiref==3.3.1
+- Django==3.1.3
+- djangorestframework==3.12.2
+- pytz==2020.4
+- sqlparse==0.4.1
 
 ## 💻 Demo
 - <br> 
