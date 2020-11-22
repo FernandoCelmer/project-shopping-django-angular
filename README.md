@@ -1,6 +1,6 @@
 # [indexoffy-shopping-django-angular]
 
-![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-shopping-django-angular) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-shopping-django-angular?color=black&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 
 #### Abstract:
 
