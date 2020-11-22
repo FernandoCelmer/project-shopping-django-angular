@@ -14,7 +14,10 @@
 - <b>Python 3.7</b>
 - asgiref==3.3.1
 - Django==3.1.3
+- django-cors-headers==3.5.0
 - djangorestframework==3.12.2
+- npm==0.1.1
+- optional-django==0.1.0
 - pytz==2020.4
 - sqlparse==0.4.1
 
@@ -28,7 +31,7 @@
 
 ## SCREEN - ON 
 ________________________________
-<p>
+<img src="https://github.com/FernandoCelmer/indexoffy-shopping-django-angular/blob/main/Content/application.png?raw=true">
 
 ## Database - ON
 ________________________________
