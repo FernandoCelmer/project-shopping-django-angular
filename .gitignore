@@ -11,13 +11,12 @@
 Thumbs.db
 
 # VirtualEnv
-Code/venv
-Code/backend/venv
+venv
 
 # Back-end - Dependencies
-Code/backend/backend/__pycache__
-Code/backend/shopping/__pycache__
-Code/backend/shopping/migrations/__pycache__
+backend/__pycache__
+shopping/__pycache__
+shopping/migrations/__pycache__
 
 # Front-end - Dependencies
-Code/frontend/node_modules
+frontend/node_modules
