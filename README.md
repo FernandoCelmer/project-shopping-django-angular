@@ -1,4 +1,4 @@
-# [indexoffy-shopping-django-angular]
+# [offy-shopping-django-angular]
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-shopping-django-angular?color=black&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 
@@ -9,9 +9,8 @@
 - [Django](https://www.djangoproject.com/) 
 - [Angular](https://angular.io/)
 
-## ✔️ Requirements
+## ✔️ Requirements - Python 3.6.12
 
-    <b>Python 3.6.12</b>
     psycopg2==2.7.6.1
     asgiref==3.3.1
     dj-database-url==0.5.0
